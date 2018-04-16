@@ -50,3 +50,4 @@ end
 
 gem 'bootstrap-sass'
 gem 'devise'
+gem 'coffee-script', '~> 2.4', '>= 2.4.1'
